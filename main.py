@@ -1,0 +1,1 @@
+print="Assalam aleykum Anvar"
